@@ -10,3 +10,4 @@ wheels/
 .venv
 
 # game generated files
+game_state.jsonl
